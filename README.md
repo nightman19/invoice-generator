@@ -12,8 +12,6 @@
 
 > *A simple Python CLI tool that helps freelancers and small business owners generate professional PDF invoices instantly.*
 
-If you’d like to create your own banner, you can design one using **Canva**, **Figma**, or **Bannersnack** (recommended size: **1280×640px**) and place it in an `assets/` folder named `banner.png`.
-
 ---
 
 ## 🚀 Features
